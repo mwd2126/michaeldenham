@@ -1,9 +1,22 @@
 name: "mywebpage"  
 author: "Michael Denham"  
 output_dir: "docs"  
+navbar:  
+  title: "Michael W. Denham"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Curriculum Vitae"
+      href: cv.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<mwd2126@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/<mwd2126>/
+    - icon: fa-brands fa-linkedin
+      href: https://www.linkedin.com/in/michaelwdenham/
+      
 output:  
   html_document:  
     self_contained: no  
-    theme: flatly  
-navbar:  
-  title: "Michael W. Denham" 
+    theme: flatly
+    toc: true
