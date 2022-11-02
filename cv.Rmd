@@ -2,4 +2,128 @@
 title: "Curriculum Vitae"
 ---
 
-<img src="Documents/Michael Denham_CV_11.2.2022.pdf" style="width:75%">
+<b><u>Education</u></b>  
+Columbia University Vagelos College of Physicians & Surgeons, New York, NY  
+MD/MS Candidate  
+Expected May 2024  
+
+Churchill College, University of Cambridge, Cambridge, UK  
+Department of History and Philosophy of Science  
+Master of Philosophy in Health, Medicine, & Society  
+Graduated with Distinction  
+Dissertation: Bloodlust: A case study of Theranos and the embodiment of a brand’s values in a chief executive.    
+July 2019  
+
+Louisiana State University Honors College, Baton Rouge, LA  
+Bachelor of Science in Chemical Engineering (Biomolecular Concentration)  
+Bachelor of Arts in Economics  
+GPA: 3.94  
+Summa cum laude, Phi Beta Kappa  
+College Honors, Upper-Level Distinction, and Distinguished Communicator  
+May 2018  
+
+HBX | Harvard Business School  
+CORe: Credential of Readiness, Pass with High Honors  
+August 2016  
+
+<b><u>Research and Work Experience</u></b>
+
+Co-Investigator | Columbia University, 2020 – Present
+
+•	Supervised under Dr. Anil Lalwani at Columbia Department of Otolaryngology-Head & Neck Surgery in New York, NY
+
+•	Design, conduct, and recruit participants for a prospective clinical research study to examine the relationship between music enjoyment and hearing loss.
+
+•	Explore the association between cochlea-carotid interval on CT imaging and sensorineural hearing loss through imaging and chart review as well as data analysis.
+
+Co-Investigator | Cambridge Coaching, 2018 – 2020
+
+•	Supervised under Dr. Jeffrey Geller at Columbia Department of Orthopedics in New York, NY
+
+•	Investigate outcomes of patients who underwent total hip arthroplasties via the Modified Watson-Jones technique via chart review and data analysis to quantify the postoperative benefit of supine versus lateral positioning.
+
+Tutor | Cambridge Coaching, 2018 – 2020
+
+•	Tutored students for math, economics, and admissions tests (ACT, GMAT, MCAT)
+
+Research Assistant | Batzer Laboratory of Comparative Genomics, 2014 – 2018
+
+•	Supervised under Dr. Mark Batzer at LSU Department of Biological Sciences in Baton Rouge, LA
+
+•	Analyzed young Saimiri-specific Alu elements to determine subspecies-specific molecular markers and elucidate squirrel monkey phylogenetic relationships for an Honors Thesis. Developed skills in PCR, gel electrophoresis, sequencing, primer design, and Python.
+
+•	Mentored undergraduates, including explaining procedures and training students to use equipment, and developed new laboratory website using HTML and CSS. Designed laboratory logo.
+
+<b><u>Peer-Reviewed Publications</u></b>
+
+1. Jasmine N. Baker, Jerilyn A. Walker, John A. Vanchiere, Kacie R. Phillippe, Corey P. St. Romain, Paulina Gonzalez-Quiroga, Michael W. Denham, Jackson R. Mierl, Miriam K. Konkel, Mark A. Batzer. Evolution of Alu Subfamily Structure in the Saimiri Lineage of New World Monkeys. Genome Biology and Evolution, Volume 9, Issue 9, 1 September 2017, Pages 2365-2376, https://doi.org/10.1093/gbe/evx172
+
+
+2. Jasmine N. Baker, Jerilyn A. Walker, Michael W. Denham, Charles D. Loupe III, and Mark A. Batzer. Recently Integrated Alu Insertions in the Squirrel Monkey (Saimiri) Lineage and Application for Population Analyses. Mobile DNA, Volume 9, Issue 1, 12 February 2018, https://doi.org/10.1186/s13100-018-0114-7
+
+3. Michael W. Denham, Alexander Chern. Giving Children with Deafness a Cape: Amplifying Diverse Portrayals of Hearing Loss in Media. Ear, Nose & Throat Journal, 24 March 2022. https://doi.org/10.1177/01455613221087941
+
+4. Michael W. Denham, Justin Golub. Does Hearing Rehabilitation Mitigate the Association Between Hearing Loss and Cognitive Impairment? Current Otorhinolaryngology Reports, 12 July 2022. https://doi.org/10.1007/s40136-022-00412-7 
+
+5. Alessandro Luna, Michael W. Denham. Artificial intelligence provides congruent and prescriptive feedback for squat form: a qualitative assessment of coaching provided by AI and physical therapist. Journal of Comparative Effectiveness Research, 3 Aug 2022. https://doi.org/10.2217/cer-2021-0253
+
+6. Alexander Chern, Michael W. Denham, Rahul K. Sharma, Alexis S. Leiderman, Amanda J. Ucci, Jennifer M. Jones, Dean Mancuso, Ilana P. Cellum, Jessica Galatioto, Anil K. Lalwani. Hearing Aids Enhance Music Enjoyment in Individuals with Hearing Loss. Otology & Neurotology, 1 September 2022, Volume 43, Issue 8, pg. 874-881. doi: 10.1097/MAO.0000000000003595
+
+7. Alexander Chern, Michael W. Denham, Alexis S. Leiderman, Rahul K. Sharma, Irene W. Su, Amanda J. Ucci, Jennifer M. Jones, Dean Mancuso, Ilana P. Cellum, Jessica A. Galatioto, Anil K. Lalwani. The Association of Hearing Loss with Active Music Enjoyment in Hearing Aid Users. Submitted.
+
+<b><u>Abstracts for Oral Presentations</u></b>
+
+1. Michael W. Denham. Bloodlust: A case study of Theranos and the embodiment of a brand’s values in a chief executive. Conference on Everything, Churchill College, University of Cambridge, Cambridge, United Kingdom. April 2019.
+
+2. Michael W. Denham. Assessing the Impact of Hearing Loss and Hearing Aid Use on Music Enjoyment. NIH Summer Research Program Symposium, Columbia University, New York, NY. August 2020.
+
+3. Michael W. Denham, Kathleen Goodwin, A. Nikolai von Krusenstiern, Craig Blinderman, Trudi Cloyd, Hetty Cunningham, Alyson Fox, Samuel Quiah. Prioritizing restorative justice: shifting focus to repairing harm and healing community within a medical school. Association of American Medical Colleges (AAMC) Group on Educational Affairs (GEA) Regional Spring Meeting. April 2021.
+
+4. Alexander Chern, Michael W. Denham, Rahul K. Sharma, Alexis Leiderman, Anil Lalwani. Hearing Aids Enhance Music Enjoyment in Individuals with Hearing Loss. American Academy of Otolaryngology—Head and Neck Surgery Foundation Annual Meeting & OTO Experience, Los Angeles, CA. October 2021. https://doi.org/10.1177%2F01945998211030908f 
+
+5. Michael W. Denham. Approaching Voice Disorders in the Elderly: The Aging Voice. UB Oto Chautauqua Virtual Conference, Buffalo, NY. July 2022.
+
+6. Michael W. Denham, Maeher R. Grewal, Justin S. Golub. A Systematic Review of Ergonomic Considerations in Endoscopic Ear Surgery. 4th World Congress on Endoscopic Ear Surgery, Kyoto, Japan. December 2022. Accepted.
+
+7. Michael W. Denham, Justin S. Golub. Multiple Forms of Stress May Be Associated with Audiometric Hearing Loss in a National Cohort. Triological Society Combined Sections Meeting. January 2023. Coronado, CA. Submitted.
+
+8. Michael W. Denham, Michelle L. Arnold, Victoria A. Sanchez, Frank R. Lin, Jose A. Luchsinger, Justin S. Golub. Design and Methods of the Early Age-Related Hearing Loss Intervention (EARHLI) Randomized Controlled Trial. American Neurotology Society at COSM, Boston, MA. May 2023. Submitted.
+
+9. Emily Ishak, Michael W. Denham, Maeher R. Grewal, Justin S. Golub. Ageism in Hearing Loss Diagnosis and Treatment. American Otological Society at COSM, Boston, MA. May 2023. Submitted.
+
+10. Michael W. Denham and Justin S. Golub. Hearing Loss is Associated with Increased Substance Use in a Multicentered American Cohort. International Federation of Otorhinolaryngological Societies (IFOS), Dubai, United Arab Emirates. January 2023. Submitted.
+
+11. Maeher R. Grewal, Michael W. Denham, Justin S. Golub. Hearing Loss is Associated with Greater Measures of Despair. International Federation of Otorhinolaryngological Societies (IFOS), Dubai, United Arab Emirates. January 2023. Submitted.
+
+<b><u>Abstracts for Poster Presentations</u></b>
+
+1. Michael W. Denham. Bloodlust: A case study of Theranos and the embodiment of a brand’s values in a chief executive. Preventing Overdiagnosis Conference, Sydney, Australia, December 2019, Supplement in BMJ Evidence-Based Medicine 2019;24:A63.
+http://dx.doi.org/10.1136/bmjebm-2019-POD.129
+
+2. Alexander Chern, Michael W. Denham, Alexis S. Leiderman, Rahul K. Sharma, Amanda J. Ucci, Jennifer M. Jones, Dean Mancuso, Ilana P. Cellum, Jessica Galatioto, Anil K. Lalwani. Music discrimination impacts music enjoyment among individuals with hearing loss. American Auditory Society Annual Conference, Scottsdale, Arizona. February 2021.
+
+3. Alexander Chern, Michael W. Denham, Alexis Leiderman, Rahul K. Sharma, Anil Lalwani. Hearing Aids Enhance Activate Music Enjoyment Among Individuals with Hearing Loss. American Otological Society at COSM, Dallas TX. April 2022.
+
+4. Alexander Chern, Michael W. Denham, Anil K. Lalwani. Efficacy of Hearing Aids on Music Perception in Individuals with Hearing Loss: A Systematic Review. Accepted. American Academy of Otolaryngology—Head and Neck Surgery Foundation Annual Meeting & OTO Experience, Philadelphia, PA. September 2022.
+
+<b><u>Additional Publications</u></b>
+
+1. Michael W. Denham. “Her Index Card Drawer”. Reflexions, Volume 26, 2020. https://drive.google.com/file/d/1gNHOF1WV1vAGo986eoxXv-UXPObaeerq/view 
+
+2. Michael W. Denham. “You Can’t Dissect a Virtual Cadaver”. Nautilus, Issue 99, Chapter 5, 
+5 May 2021. https://nautil.us/issue/99/universality/you-cant-dissect-a-virtual-cadaver  
+
+3. Michael W. Denham. “The Year Gross Anatomy Faced the Scalpel”. Hektoen International Journal, 18 August 2021. https://hekint.org/2021/08/17/the-year-gross-anatomy-faced-the-scalpel/
+
+4. Michael W. Denham, Alexander Chern. “Live music is back; bring your earplugs: Public health demands we protect our hearing”. New York Daily News, 25 September 2021. https://www.nydailynews.com/opinion/ny-oped-live-music-back-bring-earplugs-20210925-oivl7nibf5dkfdmd5dkdpd25re-story.html
+
+5. Alexander Chern, Michael W. Denham. “Marvel targets hearing loss in new miniseries ‘Hawkeye’”. Orange County Register, 10 February 2022.
+https://www.ocregister.com/2022/02/10/marvel-targets-hearing-loss-in-new-miniseries-hawkeye/
+
+6. Michael W. Denham. “When the Surgeon Was an Uneducated Barber”. Nautilus, 
+27 July 2022. https://nautil.us/when-the-surgeon-was-an-uneducated-barber-22409/ 
+
+7. Alexander Chern, Michael W. Denham. “Fighting the Stigma of Hearing Loss: Superheroes Come to the Rescue”. The Hearing Journal, Volume 75, Issue 9, September 2022, p 18, 20.  https://doi.org/10.1097/01.hj.0000874600.30744.c8
+
+8. Michael W. Denham. “What We Really Are Is an Agglomeration of Cells”. Nautilus, 
+12 October 2022. https://nautil.us/what-we-really-are-is-an-agglomeration-of-cells-242259/ 

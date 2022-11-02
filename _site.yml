@@ -2,7 +2,7 @@ name: "mywebpage"
 author: "Michael Denham"  
 output_dir: "docs"  
 navbar:  
-  title: "Michael W. Denham"
+  title: "Home"
   right:
     - text: "About"
       href: about.html
