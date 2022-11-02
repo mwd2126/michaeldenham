@@ -1,5 +1,7 @@
 ---
 title: "Curriculum Vitae"
+output: 
+  html_document:
 ---
 
 <b><u>Education</u></b>  
