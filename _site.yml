@@ -4,8 +4,6 @@ output_dir: "docs"
 navbar:  
   title: "Home"
   right:
-    - text: "About"
-      href: about.html
     - text: "Curriculum Vitae"
       href: cv.html
     - icon: fa-envelope fa-lg
