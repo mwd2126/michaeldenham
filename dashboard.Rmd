@@ -1,0 +1,68 @@
+---
+title: "Data Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(flexdashboard)
+library(tidyverse)
+library(knitr)
+library(ggridges)
+library(patchwork)
+library(p8105.datasets)
+library(plotly)
+```
+
+```{r introduce instacart data frame, include = FALSE}
+data("instacart")
+instacart =  as_tibble(instacart)
+instacart =
+  instacart %>%
+  sample_n(10000) %>% 
+  select(department, order_hour_of_day, order_dow)
+  
+```
+
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Order Hours of the Day Across Departments
+
+```{r, echo = FALSE}
+box_ggplot = 
+  instacart %>%
+  ggplot(aes(x = department, y = order_hour_of_day, fill = order_dow)) +
+  geom_boxplot() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+ggplotly(box_ggplot)
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Order Times Across Departments
+
+```{r, echo = FALSE}
+scatter_ggplot = 
+  instacart %>%
+  ggplot(aes(x = order_dow, y = order_hour_of_day, color = department)) +
+  geom_point(alpha = 0.25) +
+  coord_cartesian()
+
+ggplotly(scatter_ggplot)
+```
+
+### Order Hour of Day vs Department
+
+```{r, echo = FALSE}
+instacart %>%
+  arrange(department) %>% 
+  plot_ly(x = ~department, y = ~order_hour_of_day, color = ~department, type = "bar", colors = "viridis")
+```
+
