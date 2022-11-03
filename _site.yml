@@ -6,6 +6,8 @@ navbar:
   right:
     - text: "Curriculum Vitae"
       href: cv.html
+    - text: "Data Dashboard"
+      href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<mwd2126@cumc.columbia.edu>
     - icon: fa-github fa-lg
